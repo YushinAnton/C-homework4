@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.AssemblyInfo.cs
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\bin\Debug\net7.0\task28.exe
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\bin\Debug\net7.0\task28.deps.json
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\bin\Debug\net7.0\task28.runtimeconfig.json
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\bin\Debug\net7.0\task28.dll
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\bin\Debug\net7.0\task28.pdb
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.dll
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\refint\task28.dll
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.pdb
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\task28.genruntimeconfig.cache
+C:\Users\Антон\Desktop\C#homework4\C-homework4\task28\obj\Debug\net7.0\ref\task28.dll
